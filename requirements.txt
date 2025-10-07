@@ -1,3 +1,4 @@
+pytest
 gunicorn==21.2.0
 Flask==3.1.0
 Pillow==11.0.0
